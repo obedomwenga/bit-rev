@@ -1,0 +1,20 @@
+.ufxgreen {
+    color: #8fc73e;
+}
+
+.ufxorange {
+    color: #ef8700;
+}
+
+.paragraph {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 23px;
+}
+
+.buttontext {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+}
